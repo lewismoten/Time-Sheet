@@ -1,3 +1,5 @@
+![Time-Sheet: Quick local-first timesheet web app](docs/images/social-preview.png)
+
 # Time Sheet
 
 A quick and dirty local time sheet. It runs in the browser from plain HTML, CSS and JavaScript, with no build step.
